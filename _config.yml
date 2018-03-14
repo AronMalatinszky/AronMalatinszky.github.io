@@ -1,2 +1,5 @@
 name: Aron Malatinszky
 markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
